@@ -1,7 +1,7 @@
 let contractAddress = "0x916BECF78cDE614b12E1F630A9e3a6626BAbf482"
 
 
-let abi=[
+let contractABI=[
 	{
 		"inputs": [
 			{
